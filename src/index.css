@@ -13,7 +13,6 @@ body {
   height: 35px;
   align-items: center;
   justify-content: space-between;
-  flex-wrap: wrap;
 }
 
 .logos {
