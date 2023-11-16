@@ -15,7 +15,7 @@
 
 ## Simple Solid JS / OpenLayers Starter
 
-This is a simple implementation of solidjs with OpenLayers. Compared with React, OpenLayers is much easier to implement in Solidjs.
+This is a simple implementation of SolidJS with OpenLayers. Compared with React, OpenLayers is much easier to implement in Solidjs.
 
 **References:**
 
