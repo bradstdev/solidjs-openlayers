@@ -4,7 +4,7 @@ export function App() {
   return (
     <div class="content">
       <div class="header">
-        <h2>Simple Solid JS / OpenLayers example</h2>
+        <h2>Simple Solid JS / OpenLayers Starter</h2>
         <div class="logos">
           <a href="https://openlayers.org">
             <img
